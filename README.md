@@ -1,8 +1,8 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/foglio1024)
 
-TCC is a modern design replacement for some of the TERA Online UI elements.
+TCC es un reemplazo de diseño moderno para algunos de los elementos de la interfaz de usuario de TERA Online.
 
- **It's strongly suggested to install TCC as a TERA Toolbox module using Get More Mods tab.**
+ **Se recomienda encarecidamente instalar TCC como un módulo de TERA Toolbox usando la pestaña Obtener más mod.**
 
-Check the [overview](https://github.com/Foglio1024/Tera-custom-cooldowns/wiki/TCC-windows-overview) and the wiki to get started.
+Consulta la [descripción general](https://github.com/Foglio1024/Tera-custom-cooldowns/wiki/TCC-windows-overview) y la wiki para comenzar.
